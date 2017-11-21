@@ -1,2 +1,6 @@
 ---
-  text: hello world
+  text:
+    - hello world
+    - this is another sentence
+    - here's yet more text to render
+    - and even more
